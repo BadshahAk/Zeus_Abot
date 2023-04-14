@@ -38,6 +38,14 @@ async def restart(client, m: Message):
     await m.delete()
     accha = await m.reply("⚡")
     await asyncio.sleep(0.1)
+    await accha.edit("𝐖𝐚𝐢𝐭𝐢𝐧𝐠..")
+    await asyncio.sleep(0.1)
+    await accha.edit("𝐖𝐚𝐢𝐭𝐢𝐧𝐠...")
+    await accha.delete()
+    await asyncio.sleep(0.1)
+    umm = await m.reply_sticker(
+        "CAADBQADcgkAAoCLSFV4lcD251tTkwI"
+    )
     await umm.delete()
     await asyncio.sleep(2)
     await m.reply_photo(
