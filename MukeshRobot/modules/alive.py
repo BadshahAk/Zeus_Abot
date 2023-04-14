@@ -38,23 +38,15 @@ async def restart(client, m: Message):
     await m.delete()
     accha = await m.reply("⚡")
     await asyncio.sleep(0.1)
-    await accha.edit("𝐖𝐚𝐢𝐭𝐢𝐧𝐠..")
-    await asyncio.sleep(0.1)
-    await accha.edit("𝐖𝐚𝐢𝐭𝐢𝐧𝐠...")
-    await accha.delete()
-    await asyncio.sleep(0.1)
-    umm = await m.reply_sticker(
-        "CAADBQADcgkAAoCLSFV4lcD251tTkwI"
-    )
     await umm.delete()
     await asyncio.sleep(2)
     await m.reply_photo(
         lol,
         caption=f"""**ʜᴇʏ, ɪ ᴀᴍ 『[ZΞUS](f"t.me/{BOT_USERNAME}")』**
-   ┏━━━━━━━━━━━━━━━━━❥
-   ┣ ᴏᴡɴᴇʀ​ 👉 [𓆩𝙇𝙀𝙂𝙀𝙉𝘿 ♡ 𝘼𝙉𝘼𝙉𝘿𓆪](https://t.me/Brahman_Anand)
-   ┣ 𝙲𝚑𝚊𝚝 👉 [⤹ 𝑪𝑯𝑨𝑻𝑻𝑰𝑵𝑮𝒙𝑮𝑹𝑶𝑼𝑷 ⤸](https://t.me/CHATTINGxGROUP)
-   ┗━━━━━━━━━━━━━━━━━❥""",
+   ┏━━━━━━━━━━━━━❥
+   ┣ ᴏᴡɴᴇʀ​ 👉 [𓆩𝙇𝙀𝙂𝙀𝙉𝘿𓆪](https://t.me/Brahman_Anand)
+   ┣ 𝙲𝚑𝚊𝚝 👉 [𝑪𝑯𝑨𝑻𝑻𝑰𝑵𝑮](https://t.me/CHATTINGxGROUP)
+   ┗━━━━━━━━━━━━━❥""",
         reply_markup=InlineKeyboardMarkup(Mukesh),
     )
 __mod_name__ = "⍟ ᴀʟɪᴠᴇ ⍟"
