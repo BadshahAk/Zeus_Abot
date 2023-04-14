@@ -1,5 +1,5 @@
-━━━━━━━━━━━━━━━━━━━━
-### 🌷𝐕𝐈𝐒𝐈𝐓𝐎𝐑𝐒🌷
+🔰━━━━━━━━━━━━━━━━━🔰
+### 🔰viewer🔰
 
 <!--
 **BadshahAk/Zeus_Abot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,7 +22,7 @@
 </p>
 
 ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ZΞUS](https://t.me/ZEUS_Abot)
-━━━━━━━━━━━━━━━━━━━━
+🔰━━━━━━━━━━━━━━━━━🔰
 
 
 
@@ -36,7 +36,7 @@
 
 <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/BadshahAk/ZEUS_Abot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-darkred?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
-━━━━━━━━━━━━━━━━━━━━
+🔰━━━━━━━━━━━━━━━━━🔰
 ##Now playing🎵
 [![Spotify](https://spotify-readme-3s61yj059-xditya.vercel.app/api/spotify)](https://open.spotify.com/user/on84l0syf9y9m2m84unz4h8uq)
-━━━━━━━━━━━━━━━━━━━━
+🔰━━━━━━━━━━━━━━━━━🔰
