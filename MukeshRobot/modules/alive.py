@@ -19,7 +19,7 @@ PHOTO = [
 
 Mukesh = [
     [
-        InlineKeyboardButton(text="ɴᴏᴏʙ", url=f"tg://user?id={OWNER_ID}"),
+        InlineKeyboardButton(text="𝙇𝙀𝙂𝙀𝙉𝘿", url=f"https://t.me/Brahman_Anand"),
         InlineKeyboardButton(text="ꜱᴜᴘᴘᴏʀᴛ", url=f"https://t.me/{SUPPORT_CHAT}"),
     ],
     [
@@ -51,10 +51,10 @@ async def restart(client, m: Message):
     await m.reply_photo(
         lol,
         caption=f"""**ʜᴇʏ, ɪ ᴀᴍ 『[ZΞUS](f"t.me/{BOT_USERNAME}")』**
-   ┏━━━━━━━━━❥
-   ┣ ᴏᴡɴᴇʀ​ 👉 [𓆩𝙇𝙀𝙂𝙀𝙉𝘿 ♡ 𝘼𝙉𝘼𝙉𝘿𓆪](tg://user?id={OWNER_ID})
+   ┏━━━━━━━━━━━━━━━━━❥
+   ┣ ᴏᴡɴᴇʀ​ 👉 [𓆩𝙇𝙀𝙂𝙀𝙉𝘿 ♡ 𝘼𝙉𝘼𝙉𝘿𓆪](https://t.me/Brahman_Anand)
    ┣ 𝙲𝚑𝚊𝚝 👉 [⤹ 𝑪𝑯𝑨𝑻𝑻𝑰𝑵𝑮𝒙𝑮𝑹𝑶𝑼𝑷 ⤸](https://t.me/CHATTINGxGROUP)
-   ┗━━━━━━━━━❥""",
+   ┗━━━━━━━━━━━━━━━━━❥""",
         reply_markup=InlineKeyboardMarkup(Mukesh),
     )
 __mod_name__ = "⍟ ᴀʟɪᴠᴇ ⍟"
