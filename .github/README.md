@@ -23,7 +23,9 @@
 
 ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ZΞUS](https://t.me/ZEUS_Abot)
 🔰━━━━━━━━━━━━━━━━━🔰
-
+### ㅤㅤㅤㅤᴄʀᴇᴅɪᴛs 
+ [ ᴍᴜᴋᴇsʜ ](https://t.me/itz_legend_coder)
+🔰━━━━━━━━━━━━━━━━━🔰
 
 
 <p align="center">
